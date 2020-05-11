@@ -4,7 +4,9 @@ end
 
 def actor
 
-  rock = {}  
+  rock = {
+    name
+  }  
 
 end
 
