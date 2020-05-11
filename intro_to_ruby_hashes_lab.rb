@@ -11,7 +11,15 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  railroads: 
+	  { peices: 4,
+	  rent_in_dollars: 
+	  
+	  
+	  
+	  
+	}
 
 end
 
