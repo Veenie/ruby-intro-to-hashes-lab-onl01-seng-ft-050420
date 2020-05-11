@@ -15,6 +15,8 @@ def monopoly
 	  railroads: 
 	  { peices: 4,
 	  rent_in_dollars: 
+	  one_piece_owned: 25,
+	  two_peices_owned: 50,
 	  
 	  
 	  
